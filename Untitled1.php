@@ -5,6 +5,7 @@
  * @copyright 2014
  */
 
-echo "test";
+$str = "test";
+echo $str;
 
 ?>
