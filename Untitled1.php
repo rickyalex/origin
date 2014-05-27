@@ -5,7 +5,8 @@
  * @copyright 2014
  */
 
-$str = "test";
-echo $str;
+$str = "Hello there";
+$name = "Ricky";
+echo $str." ".$name;
 
 ?>
